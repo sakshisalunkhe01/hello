@@ -1,2 +1,2 @@
-# Hi there, I'm Sakshi Salunkhe
+# Hello there, I'm Sakshi Salunkhe
 My first repository on GitHub.
